@@ -1,5 +1,4 @@
 #用于将眼球区域和瞳孔区域的mask生成多边形的代码
-#2023-1-31
 #张力
 import cv2
 import matplotlib.pyplot as plt # plt 用于显示图片
