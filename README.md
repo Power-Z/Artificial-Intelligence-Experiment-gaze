@@ -10,7 +10,7 @@
 
 ## MPIIGaze数据集处理代码
 [preprocess_mpiigaze.py](https://github.com/Power-Z/Artificial-Intelligence-Experiment-gaze/blob/main/preprocess_mpiigaze.py)
-用于将MPIIGaze数据处理为 https://github.com/z-mahmud22/MSGazeNet MPIIGaze数据集所需格式
+用于将MPIIGaze数据处理为 https://github.com/z-mahmud22/MSGazeNet 中MPIIGaze数据集所需格式
 
 
 
